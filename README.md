@@ -12,4 +12,14 @@
 * actualizarEstado() / Clase Bus
 
 
-## Caso 2: 
+## Caso 2: Cuaderno Universitario
+### Clases:
+* Cuaderno
+* Hoja
+### Relacion:
+* Composicion
+### Metodos:
+* escribir() / Clase Cuaderno
+* quitarHoja() / Clase Cuaderno
+* mostrarContenido() / Clase Cuaderno
+* escribirTexto() / Clase Hoja
